@@ -1,0 +1,86 @@
+body{
+  max-width: 100%;
+}
+.container{
+  width: 80%;
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+}
+.first p{
+  margin-top: 15%;
+  margin-left: 40%;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  color: white;
+}
+.second p{
+  margin-top: 10%;
+  margin-left: 40%;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  color: white;
+}
+
+.third p{
+  margin-top: 10%;
+  margin-left: 40%;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  color: white;
+}
+.first{
+  display: flex;
+}
+.box1{
+width: 33%;
+height: 100px;
+background-color: red;
+
+}
+.box2{
+width: 33%;
+height: 100px;
+background-color: rgb(81, 0, 255);
+}
+.box3{
+width: 35%;
+height: 100px;
+background-color: red;
+}
+.second{
+  margin-top: 20px;
+  display: flex;
+}
+.box4{
+width: 60%;
+height: 100px;
+background-color: red;
+}
+.box5{
+width: 25%;
+height: 100px;
+background-color: rgb(81, 0, 255);
+}
+.box6{
+width: 60%;
+height: 100px;
+background-color: red;
+}
+.third{
+  margin-top: 20px;
+  display: flex;
+  flex-direction: row;
+}
+.box7{
+width: 60%;
+height: 100px;
+background-color: red;
+}
+.box8{
+width: 10%;
+height: 100px;
+background-color: rgb(81, 0, 255);
+}
+.box9{
+width: 60%;
+height: 100px;
+background-color: red;
+}
